@@ -1,0 +1,9 @@
+package delene;
+
+public class SaedinqvaneNaNizove {
+
+	String first = "Star";
+	String second = "Craft";
+	System.out.println(first + second);
+	
+}

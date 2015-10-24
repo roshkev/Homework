@@ -1,0 +1,9 @@
+INDEX VERSION 1.127+C:\Soft Intellect kurs\Homework\Homework3\.metadata\.plugins\org.eclipse.jdt.core
+697823400.index
+1807714442.index
+2273803449.index
+2902485153.index
+1122270018.index
+736255634.index
+3807041149.index
+4017482147.index
