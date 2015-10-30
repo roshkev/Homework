@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class work2 {
+	public static void main(String[] args) {
+
+		Scanner test = new Scanner(System.in);
+
+		String a = ("Hello");
+
+		System.out.println("Please enter a word: ");
+
+		String word = test.nextLine();
+
+		System.out.print(true ^ false);
+	}
+}
