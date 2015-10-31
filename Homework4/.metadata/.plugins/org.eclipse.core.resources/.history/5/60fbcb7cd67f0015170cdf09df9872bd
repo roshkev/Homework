@@ -1,0 +1,49 @@
+import java.util.Scanner;
+
+public class work1 {
+
+	public static void main(String[] args) {
+		Scanner test = new Scanner(System.in);
+		System.out.println("Please enter a number: ");
+		String num = test.nextLine();
+
+		String num0 = "Monday";
+		if (true) {
+			System.out.println("Monday");
+
+		}
+
+		if (true) {
+		}
+		String num1 = "Tuesday";
+		System.out.println("Tuesday");
+
+		{
+			if (true) {
+
+				String num2 = "Wendesday";
+				System.out.println("Wensday");
+			}
+			if (true) {
+			}
+			String num3 = "Tursday";
+			System.out.println("Tursday");
+			{
+				if (true) {
+				}
+				String num4 = "Friday";
+				System.out.println("Friday");
+			}
+			if (true) {
+			}
+			String num5 = "Saturday";
+			System.out.println("Saturday");
+		}
+		if (true) {
+		}
+		String num6 = "Sunday";
+		System.out.println("Sunday");
+
+	}
+
+}
