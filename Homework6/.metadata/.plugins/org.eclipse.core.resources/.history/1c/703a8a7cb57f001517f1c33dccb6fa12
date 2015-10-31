@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Uprajnenia2 {
+
+	public static void main(String[] args) {
+		
+		Scanner a = new Scanner(System.in);
+		
+		int = n;
+		
+		int sum = 0;
+		
+		for(;;) {
+			
+			System.out.println("Molq vavedete tcislo");
+			
+			n = a.nextInt();
+		}
+	
+
+	}
+
+}
