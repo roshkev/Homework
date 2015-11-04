@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Work1 {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Please input a number");
+		
+		int numberInt  = input.nextInt();
+		 
+		if(numberInt == 1) {
+			System.out.println("monday");
+			
+		}
+	
+
+	}
+
+}

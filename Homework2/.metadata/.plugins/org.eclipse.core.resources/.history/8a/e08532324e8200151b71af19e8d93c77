@@ -1,0 +1,14 @@
+
+public class Work1 {
+
+	inport java.until.Scanner;
+		
+	
+	public static void main(String[}){
+		
+		Scanner input = new Scanner(System.in);
+		
+
+	}
+
+}
