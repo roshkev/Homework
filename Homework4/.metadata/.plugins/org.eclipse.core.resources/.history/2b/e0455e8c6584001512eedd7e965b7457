@@ -1,0 +1,39 @@
+import java.util.Scanner;
+
+public class work1 {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+        System.out.println("Molq vavedete karta");
+        
+		 char= scanner.nextLine();
+		
+		switch char = nextLine (char) 
+			
+			case "A":
+			case "a":
+				
+		System.out.println("Validna karta Ace");
+		
+		break;
+		
+		}
+		
+		case "K":
+		case "k":
+			
+			System.out.println("Validna karta Pop");
+			
+			break;
+			
+			
+		
+		
+		
+		
+
+		}
+	}
+	

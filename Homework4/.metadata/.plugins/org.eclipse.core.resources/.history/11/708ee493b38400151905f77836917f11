@@ -1,0 +1,111 @@
+import java.util.Scanner;
+
+public class work2 {
+
+	public static void main(String[] args) {
+
+		Scanner scaner = new Scanner(System.in);
+
+		String str = scaner.nextLine();
+
+		switch (str) {
+		case "A":
+		case "b":
+			System.out.println("Validna karta Aso");
+			break;{
+				}
+			
+
+			switch (str) {
+			
+			case "K":
+			case "k":
+				System.out.println("Validna karta Pop");
+				break;{
+				}
+
+				switch (str) {
+				
+			case "J":
+			case "j":
+				System.out.println("Validna karta Vale");
+				break; {
+				}
+				
+				switch (str) {
+				
+		
+            case "D":
+            case "d":	
+                System.out.println("Validna karta Dama");
+                break;{
+                }
+                
+				switch (str) {
+				
+			
+			case "2":
+				System.out.println("Validna karta Dvoika");
+				break; {
+					}
+				
+				
+					switch (str) {
+					
+				
+			case "3":
+				System.out.println("Validna karta Troika");
+				break;{
+					
+				}
+					
+				switch (str) {
+								
+							
+			case "4":
+				System.out.println("Validna karta Tcetvorka");
+				break;{
+					
+				}
+					
+			switch (str) {
+			
+			
+				case"5":System.out.println("Validna karta Petica");
+				break;{
+				}
+				
+	        switch(str){
+
+	           case"6":System.out.println("Validna karta Shestica");
+	           break;{
+
+                }
+
+           switch(str){
+               case"7":System.out.println("Validna karta Sedmica");
+               break;{
+                }
+
+
+
+            switch(str){
+            case"8":System.out.println("Validna karta Osmitca");
+            break;{
+            }
+
+
+
+           switch(str){
+           case"9":System.out.println("Validna karta Devetka");
+           break;{
+           }
+
+
+
+           switch(str){
+           case"10":System.out.println("Validna karta Desetka");
+           break;{
+           }
+       scaner.close();
+           }

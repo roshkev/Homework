@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class work1 {
+
+	public static void main(String[] args) {
+		 
+		Scanner scaner = new Scanner(System.in);
+		
+		String n  = scanner.nextLine();
+		
+		
+		 for (i = 1; i < n ; i++);{
+			 
+			 System.out.println(i);
+		 }
+			 
+		
+
+	}
+
+}

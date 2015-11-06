@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class work1 {
+
+	public static void main(String[] args) {
+
+		int n = 30;
+
+		
+		int counter = 1;
+		
+	    while (counter <= n)
+
+		{
+		for (int i = 1; i < n; i++);
+		
+		
+		{
+
+			System.out.println(counter);
+		}
+		
+	}
+
+}
+}

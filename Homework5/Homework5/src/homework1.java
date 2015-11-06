@@ -8,7 +8,7 @@ public class homework1 {
 		
 		int day = scanner.nextInt();
 		
-		switch (day);
+		
 		
 		
 
