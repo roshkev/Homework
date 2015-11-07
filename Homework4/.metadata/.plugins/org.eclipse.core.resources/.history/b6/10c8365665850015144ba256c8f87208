@@ -14,7 +14,7 @@ public class work1 {
 		
 	    while (counter <= n) {
 	    	
-		 if ( counter % 3 == 2 || counter % 7 == 2 ) {
+		 if ( counter % 3 == 2 && counter % 7 == 2 ) {
 		
 		
 			System.out.println(counter);
