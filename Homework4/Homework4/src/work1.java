@@ -10,21 +10,22 @@ public class work1 {
 
 		int n = scanner.nextInt();
 
-		
 		int counter = 1;
 		
-	    while (counter <= n)
-
-		{
-		for (int i = 1; i < n; i++);
+	    while (counter <= n) {
+	    	
+		 if ( counter % 3 == 2 && counter % 7 == 2 ) {
 		
 		
-		{
-
 			System.out.println(counter);
+		
+		}
+		counter++;
+		
 		}
 		
 	}
 
-}
-}
+	
+	}
+
