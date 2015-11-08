@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class work2 {
+
+	public static void main(String[] args) {
+		
+		Scanner r = new Scanner(System.in);
+		
+		
+		
+		int max = 1500;
+		int min = 2500;
+		
+		for (int i = 1; i < 10; i++) {
+			int n = r.nextInt();
+			if (n > max){
+				
+			max = n;
+		}
+		
+		if ( n < min){
+			min =n;
+			}
+		}
+		System.out.println("MAX:" + max);
+		System.out.println("MIN:" + min);
+	}
+
+}

@@ -1,0 +1,28 @@
+
+public class uprajnenia6 {
+
+	public static void main(String[] args) {
+		 
+		int[] array = {2,3,5,7,13};
+		int min = Integer.MIN_VALUE;
+		int max = Integer.MAX_VALUE;
+		
+		for (int i = 0; i < array.length; i++) {
+			if (i % 2 == 0 && array[i] > max){
+				
+				max= array [i];
+				
+				
+			}
+			if ( i % 2 != 0 && array [i] < min){
+				min = array [i];
+				
+				
+				
+			}
+		}
+      System.out.println ("The Max number of even index is" + max);
+      System.out.println ("The Min number of even index is" + min);
+	}
+
+}

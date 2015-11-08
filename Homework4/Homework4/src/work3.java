@@ -10,16 +10,16 @@ public class work3 {
 		
 		int n = scanner.nextInt();
 		
-		int counter = 1;
+		int counter = 0;
 		
-		while (counter <= n );
-		
-		{
-			for(int i = 1 ; i < n ;  
+		while (counter <= 1 ){
+			if(counter <=1 || counter <= 5){
+				
+				System.out.println(counter);
+			}
+			counter++;
 		}
 		
 		
-
 	}
-
 }
