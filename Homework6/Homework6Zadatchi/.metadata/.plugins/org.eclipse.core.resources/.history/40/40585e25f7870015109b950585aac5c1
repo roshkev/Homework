@@ -1,0 +1,27 @@
+
+public class DomashaZadatcha1 {
+
+	public static void main(String[] args) {
+
+		int[] array = new int[] { 1, 2, 3, };
+
+		for (int row = 0; row < array.length; row++) {
+
+			for (int index = 0; index < array.length; index++) {
+
+				array[index] = 2 * array[index];
+
+			}
+
+			System.out.println(array[row] + " ");
+		}
+
+		{
+
+		}
+
+		{
+
+		}
+	}
+}

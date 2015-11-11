@@ -1,0 +1,27 @@
+
+public class DomashaZadatcha1 {
+
+	public static void main(String[] args) {
+
+		
+		
+		int[] array = new int[] { 1, 2, 4 };
+		
+		int br = 0;
+
+		for (int I=0; I < array.length; I++) {
+
+			if ((array[I] %2 ) == 0) br++;{
+				
+				System.out.println("Броят на четните елементи в масива е: " + br);
+			}
+
+			
+		}
+		
+		{
+
+		}
+
+}
+	}

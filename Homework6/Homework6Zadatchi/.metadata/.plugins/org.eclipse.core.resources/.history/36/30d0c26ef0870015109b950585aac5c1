@@ -1,0 +1,29 @@
+
+public class DomashaZadatcha1 {
+
+	public static void main(String[] args) {
+
+		int[] ourArray = new int[] { 1, 6, 18, 3, 9, 10, 7 };
+
+		for (int row = 0; row < ourArray.length; row++) {
+			
+			if (ourArray[0] % 2 == 1);
+			if (ourArray[1] % 2 == 1);
+			if (ourArray[2] % 2 == 1);
+			if (ourArray[3] % 2 == 1);
+			if (ourArray[4] % 2 == 1);
+			if (ourArray[5] % 2 == 1);
+			if (ourArray[6] % 2 == 1);
+			
+			
+				System.out.print(ourArray[row] + " ");
+			{
+
+			}
+
+			{
+
+			}
+		}
+	}
+}

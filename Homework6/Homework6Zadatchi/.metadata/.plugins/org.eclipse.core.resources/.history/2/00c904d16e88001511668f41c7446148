@@ -1,0 +1,19 @@
+
+public class DomashaZadatcha1 {
+
+	public static void main(String[] args) {
+
+		int Array[] = { 12, 34, 56, 78, 6, 5, 5, 45, 4, 3 };
+
+		int br = 0;
+
+		for (int I = 0; I < Array.length; I++)
+
+			if ((Array[I] % 2) == 0)
+				br++;
+
+		System.out.println("Броят на четните елементи в масива е: " + br);
+
+	}
+
+}
