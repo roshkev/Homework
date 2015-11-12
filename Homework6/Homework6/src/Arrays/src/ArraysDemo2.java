@@ -1,3 +1,5 @@
+package Arrays.src;
+
 public class ArraysDemo2 {
 
 	public static void main(String[] args) {

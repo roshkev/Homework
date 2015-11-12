@@ -1,3 +1,5 @@
+package Arrays.src;
+
 public class ArraysDemo1 {
 
 	public static void main(String[] args) {
@@ -11,10 +13,11 @@ public class ArraysDemo1 {
 
 		for (int i = 4; i < numbers.length; i++) {
 		    numbers[i] = i + 1;
+		    System.out.println(numbers[i]);
 		}
 		
-		for (int i = 0; i < numbers.length; i++) {
-			System.out.println("numbers[" + i + "] = " + numbers[i]);
+		//for (int i = 0; i < numbers.length; i++) {
+			//System.out.println("numbers[" + i + "] = " + numbers[i]);
 		}
 	}
-}
+

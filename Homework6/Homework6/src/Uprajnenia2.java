@@ -10,7 +10,9 @@ public class Uprajnenia2 {
 		
 		int sum = 0;
 		
-		for(;;) {
+		for (int i = 0; i < args.length; i++) {
+			
+		} 
 			
 			System.out.println("Molq vavedete tcislo");
 			
@@ -20,4 +22,4 @@ public class Uprajnenia2 {
 
 	}
 
-}
+
