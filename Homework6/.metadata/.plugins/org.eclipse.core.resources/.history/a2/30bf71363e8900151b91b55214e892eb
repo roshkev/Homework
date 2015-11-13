@@ -1,0 +1,17 @@
+
+public class DomashnoZadatca1 {
+
+	public static void main(String[] args) {
+
+		int[] myArray = new int[] { 2, 6, 7, 9 };
+
+		for (int i = 0; i < myArray.length; i++) {
+			
+			for (int index = 0; index < myArray.length; index +=0)
+				
+			System.out.print(myArray[i] + " ");
+		}
+
+	}
+
+}
