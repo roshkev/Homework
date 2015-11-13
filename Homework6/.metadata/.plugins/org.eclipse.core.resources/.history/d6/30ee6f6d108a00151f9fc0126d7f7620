@@ -1,0 +1,21 @@
+
+public class DomashnaZadatchaEdno {
+
+	public static void main(String[] args) {
+
+		int[] myArray = new int[] { 8, 4, 8, 3, 5, 10 };
+
+		int sum = 0;
+
+		for (int row = 0; row < myArray.length; row++) {
+
+			if (myArray[row] % 2 == 1)
+				;
+
+			sum = sum + myArray[row];
+		}
+		System.out.println("Сумата на четните числа в масива е:" + sum);
+
+	}
+
+}

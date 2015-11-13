@@ -1,0 +1,26 @@
+
+public class Domasni {
+
+	public static void main(String[] args) {
+		int[] myArray = new int[] { 1, 4, 8, };
+		
+		int sum = 0;
+		
+		
+		for (int i = 0; i < myArray.length;i++ ){
+	//	for (int row = 0; row < myArray.length; )
+			
+			if (myArray[i] % 2== 0);
+				
+			sum = sum + myArray[i]-1;
+		}
+		
+			System.out.println("Сумата на четните числа в масива е:" + sum);
+
+		}
+		}
+
+
+	
+
+
