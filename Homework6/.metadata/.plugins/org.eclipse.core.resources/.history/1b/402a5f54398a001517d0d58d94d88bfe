@@ -1,0 +1,19 @@
+
+public class upr {
+
+	public static void main(String[] args) {
+
+		int[] numbers = new int[]{5,8,9,6};
+		
+
+		for (int i = 4; i < numbers.length; i++) {
+		    numbers[i] = i + 1;
+		    
+		}
+			
+		System.out.println(numbers);
+		}
+
+	}
+
+

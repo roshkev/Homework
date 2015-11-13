@@ -3,7 +3,7 @@ public class DomashnoZadatca1 {
 
 	public static void main(String[] args) {
 
-		int[] myArray = { 1,4,8,3,5 };
+		int[] myArray = { 2,4,8,3,5 };
 
 		int sum = 0;
 

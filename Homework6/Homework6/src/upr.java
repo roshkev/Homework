@@ -3,17 +3,22 @@ public class upr {
 
 	public static void main(String[] args) {
 
-		int n = 75;
+		int[] numbers = new int[]{5,8,9,6};
+		
+		int n = 9;
 
-		int[] MyArray = { 42, 47, 65, 75, 83, 29, 12, 144 };
-
-		for (int row = 0; row < MyArray.length;) {
-
-			row = n;
-			System.out.println("Индекса на първото намерено число е: " + row);
-
+		for (int i = 0; i < numbers.length; i++) {
+			
+		    numbers[i] = i + 1;
+		    
+		 for ( int row = 9;row < numbers.length; row++) ;  
+		 
+		    System.out.println(numbers[i] + n);
+		}
+			
+		
 		}
 
 	}
 
-}
+

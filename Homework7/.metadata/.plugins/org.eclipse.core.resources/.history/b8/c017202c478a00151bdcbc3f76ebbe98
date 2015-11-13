@@ -1,0 +1,32 @@
+
+public class DomashnaZadatcha3Urok7 {
+
+	public static void main(String[] args) {
+
+		int[][] Matrix = { { 1, 2, 6, }, { 7, 8, 9 }, { 13, 14, 16 } };
+		for (int row = 0; row < Matrix.length; row++) {
+
+			for (int col = 0; col < Matrix.length; col++) {
+				if (Matrix[row][col] % 2 == 0) {
+					System.out.println(Matrix[row][col]);
+
+				}
+
+			}
+
+		}
+
+		// int[][] Matrix =
+
+		// { { 4, 8, 9, 77, 12 }, { 6, 7, 9, 9, 78 }, };
+
+		// for (int col = 0; col < Matrix.length; col++) {
+		// for (int rows = 0; rows < Matrix.length; rows++) {
+		// if (Matrix[rows][col] % 2 == 0) {
+		// System.out.println(Matrix[rows][col]);
+
+		// }
+		// }
+		// }
+	}
+}

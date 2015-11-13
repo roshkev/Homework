@@ -1,0 +1,19 @@
+
+public class DomashnaZadatcha3Urok7 {
+
+	public static void main(String[] args) {
+
+		int[][] Matrix =
+
+		{ { 4, 8, 9, 77, 12 }, { 6, 7, 9, 9, 78 }, };
+
+		for (int col = 0; col < Matrix.length; col++) {
+			for (int rows = 0; rows < Matrix.length; rows++) {
+				if (Matrix[rows][col] % 2 == 0) {
+					System.out.println(Matrix[rows][col]+ " ");
+					
+				}
+			}
+		}
+	}
+}

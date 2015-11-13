@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class DomashnaZadatcha1Urok7 {
+
+	public static void main(String[] args) {
+
+		Scanner number = new Scanner(System.in);
+
+		System.out.println("Molia vavedete parvoto tcislo");
+
+		int a = number.nextInt();
+
+		System.out.println("Molia vavedete vtoroto tcislo");
+
+		int b = number.nextInt();
+
+		if (a < b) {
+			System.out.println("Nevalidno tcislo,opitaite pak:");
+		}
+		if (a > b) {
+
+			for (int i = b; i < a; i++)
+			
+				if (i < a && i % 3 == 0)
+		
+					System.out.println(i);
+		}
+		// System.out.println("Nevalidno tcislo,opitaite pak:");
+	}}
+
+
