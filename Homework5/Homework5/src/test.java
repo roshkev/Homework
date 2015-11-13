@@ -10,7 +10,7 @@ public class test {
 
 		{
 
-			if (counter % 2 == 1)
+			if (counter % 2 == 0)
 
 			{
 

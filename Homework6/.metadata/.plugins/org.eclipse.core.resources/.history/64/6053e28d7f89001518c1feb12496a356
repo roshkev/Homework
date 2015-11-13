@@ -1,0 +1,12 @@
+
+public class DomashnaZadatcha4 {
+
+	public static void main(String[] args) {
+		
+		int[] myArray = new int [] {2,7,9,3,9,8,7,6};
+		
+		
+
+	}
+
+}

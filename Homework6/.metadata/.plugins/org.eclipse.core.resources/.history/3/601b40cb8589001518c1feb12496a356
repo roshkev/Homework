@@ -1,0 +1,18 @@
+
+public class DomashnaZadatcha4 {
+
+	public static void main(String[] args) {
+
+		int[] MyArray = { 42, 47, 65, 75, 83, 29, 12, 144 };
+		
+		int n = 9;
+		
+		for (int row = 0; row < MyArray.length;row++) {
+
+			row = n;
+			System.out.println("Индекса на първото намерено число е: " + row);
+
+		}
+
+	}
+}

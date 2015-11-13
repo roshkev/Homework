@@ -4,7 +4,7 @@ public class work2 {
 
 	public static void main(String[] args) {
 		
-		int [][] matrix =new int [4][4];
+		int [][] matrix =new int [2][2];
 		Scanner input = new Scanner(System.in);
 		
 		for (int row = 0; row < matrix.length; row++) {
