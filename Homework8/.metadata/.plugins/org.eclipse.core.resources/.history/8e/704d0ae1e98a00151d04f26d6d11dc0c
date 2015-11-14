@@ -1,0 +1,28 @@
+
+public class DomashnaZadatcha2Urok8 {
+
+	
+	
+		public static void callSum(int a, int b) {
+		int theSum = add(a, b);
+		System.out.print(theSum);
+		}
+
+		private static int add(int a, int b) {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+
+		//public static int add(int value1, int value2) {
+		// return value1 + value2;
+		//}
+		public static void main(String[] args){
+			
+			//System.out.println("We will call callSum() method to calculate 2+3:");
+			
+			//callSum(2,3);
+			
+			// System.out.println("The method callSum() finished and the main begins.");
+			}
+			}
+	

@@ -1,0 +1,26 @@
+
+public class DomashnaZadatcha2Urok8 {
+
+	public static void main(String[] args) {
+		int num1 = 5;
+		int num2 = 5;
+		int num3 = 5;
+
+		calculateSumArea(num1, num2, num3);
+
+	}
+
+	public static void calculateSumArea(int num1, int num2, int num3) {
+		int area = num1 * num2 * num3;
+		System.out.println(area);
+
+		
+	}
+	 
+	
+	
+	
+	
+
+	}
+	

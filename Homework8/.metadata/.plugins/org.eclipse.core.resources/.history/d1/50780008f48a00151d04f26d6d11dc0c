@@ -1,0 +1,14 @@
+
+public class DomashnaZadatcha2Urok8 {
+
+		public static void main(String[] args){
+		}
+			public static void printNumber(int numberParam0, int numberParam1,int numberParam2) {
+
+			    numberParam0 = 5;
+			    numberParam1 = 9;
+			    numberParam2 =10;
+			    int numberParam = (numberParam0 * numberParam1 * numberParam2);
+			    System.out.println("Sbora na tcislata e: " + numberParam);
+			}
+	}

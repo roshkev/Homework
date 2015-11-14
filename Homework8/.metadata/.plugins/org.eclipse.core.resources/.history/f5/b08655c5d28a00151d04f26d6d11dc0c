@@ -1,0 +1,19 @@
+
+public class DomashnaZadatcha1Urok8 {
+
+//	public static void main(String[] args) {
+	
+		
+		//System.out.print("Greetings,");
+		//print ("Rumen");
+	//}
+
+	private static void print(String string) {
+		
+		System.out.print("Greetings,");
+		
+		print ("Rumen");
+		
+	}
+
+}

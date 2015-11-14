@@ -1,0 +1,21 @@
+
+public class DomashnaZadatcha2Urok8 {
+
+	
+	
+		public void callSum(int a, int b) {
+		int theSum = add(a, b);
+		System.out.print(theSum);
+		}
+
+		public int add(int value1, int value2) {
+		 return value1 + value2;
+		}
+		public static void main(String[] args){
+			
+		 System.out.println();
+		 
+		 System.out.println();
+		}
+		}
+	

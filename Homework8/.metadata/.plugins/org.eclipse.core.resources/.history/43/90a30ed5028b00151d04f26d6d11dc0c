@@ -1,0 +1,17 @@
+
+public class DomasnaZadatcha3Urok8 {
+
+	public static void main(String[] args) {
+	}
+		public static void printNumber(int numberParam) {
+			
+		    numberParam = 5;
+		    
+		 if (numberParam % 2 ==0);
+		 System.out.println("Tsisloto e jcetno");
+		 
+				
+			}
+	}
+
+

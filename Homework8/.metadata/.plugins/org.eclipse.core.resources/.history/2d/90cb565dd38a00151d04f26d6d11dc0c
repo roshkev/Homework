@@ -1,0 +1,27 @@
+
+public class DomashnaZadatcha1Urok8 {
+	
+
+	public static void main(String[] args) {
+		
+		String[] a = new String[10];
+		
+		
+		printWords ("Greetings,Rumen");
+		
+	}
+
+	private static void printWords(String ...words) {
+		 for (String word : words) {
+		        System.out.print(word + " ");
+		    }
+		    
+		    System.out.println();
+		
+		
+	}
+	}
+
+		
+	
+

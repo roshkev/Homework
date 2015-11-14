@@ -1,0 +1,28 @@
+
+public class DomashnaZadatcha2Urok8 {
+
+	public static void main(String[] args) {
+		int num1 = 5;
+		int num2 = 5;
+		int num3 = 5;
+
+		calculateSum(num1, num2, num3);
+
+	}
+
+	public static void calculateSum(int num1, int num2, int num3) {
+		int sum = num1 * num2 * num3;
+		System.out.println("Sbora na tcislata e:" + sum);
+
+	}
+
+	int num6 = 10;{
+	int num4 = 10;
+	int num5 = 10;
+
+	
+
+		calculateSum(num6, num4, num5);
+
+	}
+}

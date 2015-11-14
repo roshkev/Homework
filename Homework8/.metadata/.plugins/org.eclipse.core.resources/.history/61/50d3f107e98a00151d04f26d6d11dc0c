@@ -1,0 +1,14 @@
+
+public class DomashnaZadatcha2Urok8 {
+
+	public static void main(String[] args) {
+	}
+		public static void printNumber(int numberParam) {
+
+		    numberParam = 5;
+		
+		    System.out.println("in printNumber() method, after the "
+		    		+ "modification, numberParam is: " + numberParam);
+	}
+
+}

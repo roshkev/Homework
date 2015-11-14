@@ -1,0 +1,13 @@
+
+public class DomashnaZadatcha2Urok8 {
+
+	public static void main(String[] args) {
+	}
+		public static void printNumber(int numberParam) {
+
+		    numberParam = 2;
+		
+
+	}
+
+}
