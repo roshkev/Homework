@@ -1,0 +1,22 @@
+
+public class DomashaZadatcha3Urok8 {
+
+	public static void main(String[] args) {
+
+		 int number  = 10;
+
+		
+	}
+
+	public static float comparesNumbers(float number) {
+		if (number % 2 == 0);
+		 
+			System.out.println("Tcisloto e tcetno :");
+
+		return number;
+	}
+
+	{
+
+	}
+}

@@ -1,0 +1,39 @@
+
+public class DomashaZadatcha3Urok8 {
+
+	public static void main(String[] args) {
+
+	}
+
+	static int number = 9;
+	static int number1 = comparesNumbers(number );
+
+	public static float comparesNumbers(int number){
+
+		if (number1 % 2 == 0){
+			number = number1;
+			System.out.println("Tcisloto e tcetno :");
+		
+		}
+		
+		
+		if (number1 % 2 == 1){
+			number = number1;
+		
+		System.out.println("Tcisloto e netcetno :");
+		
+	
+		return number1;
+	
+		}
+		
+	
+		
+	
+
+
+	}
+
+}
+
+	

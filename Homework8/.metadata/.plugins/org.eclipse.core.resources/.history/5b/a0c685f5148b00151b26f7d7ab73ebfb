@@ -1,0 +1,26 @@
+
+public class DomashaZadatcha3Urok8 {
+
+	public static void main(String[] args) {
+
+	}
+
+	static float number = 10.1f;
+	static float number1 = comparesNumbers(number);
+
+	public static float comparesNumbers(float number) {
+		if (number % 2 == 0 && number %2 ==1);
+		
+
+		float number1 = number;
+		
+		System.out.println("Tcisloto e tcetno :");
+		
+		return number1;
+		
+	}
+	
+	{
+
+	}
+}
